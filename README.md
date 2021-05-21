@@ -5,15 +5,20 @@
 <h1>Andriel Cardoso</h1>
 • 👨🏻‍🎓 I'm a System Analysis and Development student from Univille University of Brazil
 
+
 • 🥁 Drummer since 7yo
 
+
 • 💬 Let's talk about The Big Bang Theory and AI
+
 
 • ❤️ In a relationship with web development
 
 ### <h2>👨‍💻 I'm currently learning</h2>
 • Python
+
 •  Javascript
+
 •  R
 
 ### <h2>🎮 Hobbies: </h2>
@@ -21,11 +26,14 @@
 
 ### <h2>💡 Goals for 2021: </h2>
 • Start my first project in web development
+
 • Improve my knowledge of JavaScript, TypeScript
+
 • Become skilled in JS and Python
 
 ### <h2> ⚡ Relevant achievement: </h2>
 • Platinum in Marvel's Spider-man PS4
+
 • Leave home to see the world (sometimes)
 
 ### <h2> 📢 Interested in: </h2>
