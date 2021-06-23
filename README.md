@@ -11,3 +11,5 @@ I'm currently learning about C#, GoLang and Python, and planning to develop desk
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrielCardoso&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/AndrielCardoso)
 
 ![Snake animation](https://github.com/AndrielCardoso/AndrielCardoso/blob/output/github-contribution-grid-snake.svg)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndrielCardoso.visitor-badge)
